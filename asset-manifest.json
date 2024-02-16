@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//Just-Crypto-app/static/css/main.38108083.css",
+    "main.js": "//Just-Crypto-app/static/js/main.15d3fb20.js",
+    "index.html": "//Just-Crypto-app/index.html",
+    "main.38108083.css.map": "//Just-Crypto-app/static/css/main.38108083.css.map",
+    "main.15d3fb20.js.map": "//Just-Crypto-app/static/js/main.15d3fb20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38108083.css",
+    "static/js/main.15d3fb20.js"
+  ]
+}
